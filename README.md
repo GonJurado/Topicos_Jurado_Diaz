@@ -15,3 +15,8 @@ Resultados:
 
 
 Conclusiones:
+- La programación de restricciones es esencial para modelar eficazmente la asignación de pacientes a hospitales durante una pandemia.
+- Es crucial diferenciar entre restricciones duras (esenciales) y blandas (preferencias) para garantizar la viabilidad y satisfacción del modelo.
+- La utilización de datos reales, como coordenadas geográficas, es fundamental para diseñar un modelo realista y efectivo.
+- El modelo debe ser flexible y adaptable para enfrentar diferentes escenarios durante una crisis de salud.
+- La presentación clara de resultados, incluidos mapas y análisis visuales, es crucial para comunicar conclusiones y recomendaciones a las partes interesadas.
