@@ -7,3 +7,11 @@ Se requiere que, utilizando como mínimo la ubicación de 10 hospitales, diseña
 - Cada paciente tiene un nivel de severidad: A mayor la severidad, mayor la prioridad para ser hospedado en el hospital más cercano.
 
 Modelo Formal:
+
+
+
+Resultados:
+
+
+
+Conclusiones:
