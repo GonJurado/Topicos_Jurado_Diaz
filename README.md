@@ -35,6 +35,20 @@ Restricciones:<br>
 
 Resultados:<br>
 
+![](https://raw.githubusercontent.com/GonJurado/Topicos_Jurado_Diaz/main/captura_mapa.png)
+
+Análisis de Resultados
+
+El modelo de asignación de pacientes a hospitales utilizando programación de restricciones ha demostrado ser una herramienta eficaz para abordar la gestión de recursos durante una pandemia. A continuación, se presentan los principales hallazgos y conclusiones derivados del análisis de los resultados obtenidos:
+
+1. Eficiencia en la asignación de recursos: El modelo ha logrado asignar de manera eficiente a cada paciente a una cama disponible en el hospital más cercano, garantizando así una utilización óptima de los recursos hospitalarios.
+2. Optimización de la distancia: La consideración de la proximidad geográfica como una preferencia blanda ha permitido asignar a los pacientes a hospitales cercanos, lo que reduce los tiempos de transporte y aumenta la accesibilidad a la atención médica.
+3. Priorización de pacientes críticos: La capacidad del modelo para priorizar a los pacientes con mayor severidad ha contribuido a garantizar que aquellos en condiciones más graves reciban atención médica prioritaria, incluso cuando la disponibilidad de camas es limitada.
+4. Visualización de resultados: La generación de mapas 2D ha facilitado la visualización de la distribución geográfica de hospitales, pacientes y la gravedad de las enfermedades, lo que ha facilitado la comprensión y comunicación de los resultados a las partes interesadas.
+5. Flexibilidad y adaptabilidad: El modelo ha demostrado ser flexible y adaptable a diferentes escenarios y condiciones cambiantes durante la pandemia, lo que lo convierte en una herramienta valiosa para la toma de decisiones informadas en situaciones de crisis de salud pública.
+
+
+
 
 
 Conclusiones:<br>
