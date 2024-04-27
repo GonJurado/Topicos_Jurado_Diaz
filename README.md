@@ -24,14 +24,17 @@ Variables de Decisión:<br>
 Función Objetivo:<br>
   Minimizar∑𝑖∈𝐻∑𝑗∈𝐵𝑖∑𝑝∈𝑃𝑥𝑖𝑗𝑝Minimizar∑i∈H∑j∈Bi∑p∈Pxijp
 
-Restricciones:<br>
+<br>Restricciones:<br>
 1.	Cada paciente 𝑝p debe estar asignado a exactamente una cama en un hospital: ∑𝑖∈𝐻∑𝑗∈𝐵𝑖𝑥𝑖𝑗𝑝=1,∀𝑝∈𝑃∑i∈H∑j∈Bixijp=1,∀p∈P
 2.	Cada cama 𝑗j de cada hospital 𝑖i solo puede ser asignada a un paciente 𝑝p: ∑𝑝∈𝑃𝑥𝑖𝑗𝑝≤1,∀𝑖∈𝐻,∀𝑗∈𝐵𝑖∑p∈Pxijp≤1,∀i∈H,∀j∈Bi
 3.	Preferencias blandas:
 •	Todos los pacientes deben ser asignados a una cama disponible en el hospital más cercano.
 •	Los pacientes con mayor severidad deben tener prioridad para ser asignados a camas cuando no haya suficientes disponibles.
 
-
+Modificación heurística:<br>
+Se intento aplicar como variable al 'smallest domain', el cual su modificación se encuentra en (https://github.com/GonJurado/Topicos_Jurado_Diaz/blob/main/Heuristics.ipynb)<br>
+En base a ese cambio, se reconoció cambios inexistentes:
+![](https://raw.githubusercontent.com/GonJurado/Topicos_Jurado_Diaz/main/Heuristic.png)
 
 Resultados:<br>
 
