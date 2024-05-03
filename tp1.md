@@ -1,4 +1,4 @@
-# Informe Completo del Juego de Rompecabezas Rikudo
+# Informe TP: Resolución de Tablero Rikudo
 
 ## Introducción
 
