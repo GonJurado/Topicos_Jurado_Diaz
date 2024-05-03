@@ -45,10 +45,10 @@ El código del programa se ha implementado utilizando las siguientes librerías:
 
 El código se divide en las siguientes funciones:
 
-1. generate_valid_path(size): Genera un camino aleatorio en un tablero de tamaño size.
-2. solve_rikudo_puzzle(size, path, canvas): Resuelve el problema de Rikudo para un tablero de tamaño size y un camino inicial path. La solución se muestra en un canvas.
-3. update_canvas(canvas, solution_grid): Actualiza el canvas con la solución del problema.
-4. solve_puzzle(): Obtiene el tamaño del tablero del usuario, genera un camino aleatorio y resuelve el problema.
+1. crearCamino(size): Genera un camino aleatorio en un tablero de tamaño size.
+2. resolverRikudo(size, path, canvas): Resuelve el problema de Rikudo para un tablero de tamaño size y un camino inicial path. La solución se muestra en un canvas.
+3. actualizar(canvas, solucionTabla): Actualiza el canvas con la solución del problema.
+4. solucionar(): Obtiene el tamaño del tablero del usuario, genera un camino aleatorio y resuelve el problema.
 5. main(): Crea la interfaz gráfica del usuario y ejecuta la función solve_puzzle().
 
 ## Interfaz Gráfica
@@ -60,3 +60,9 @@ La interfaz gráfica del usuario consiste en una ventana con una entrada de text
 - El programa implementado es capaz de resolver el problema de Rikudo para tableros de cualquier tamaño. 
 - La interfaz gráfica del usuario permite a los usuarios ingresar el tamaño del tablero y ver la solución del problema.
 - Se ha demostrado que la técnica de Programación por Restricciones es una herramienta efectiva para resolver este tipo de problemas de rompecabezas.
+
+## Referencias
+- Rikudo-puzzle.com - Free Rikudo puzzles online. (s. f.). Rikudo. Recuperado de:<br>
+  https://www.rikudo-puzzle.com/
+- Python reference: CP-SAT. (s. f.). Google For Developers. Recuperado de:<br>
+  https://developers.google.com/optimization/reference/python/sat/python/cp_model
