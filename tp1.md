@@ -57,4 +57,6 @@ La interfaz gráfica del usuario consiste en una ventana con una entrada de text
 
 ## Conclusiones
 
-El programa implementado es capaz de resolver el problema de Rikudo para tableros de cualquier tamaño. La interfaz gráfica del usuario permite a los usuarios ingresar el tamaño del tablero y ver la solución del problema. Se ha demostrado que la técnica de Programación por Restricciones es una herramienta efectiva para resolver este tipo de problemas de rompecabezas.
+- El programa implementado es capaz de resolver el problema de Rikudo para tableros de cualquier tamaño. 
+- La interfaz gráfica del usuario permite a los usuarios ingresar el tamaño del tablero y ver la solución del problema.
+- Se ha demostrado que la técnica de Programación por Restricciones es una herramienta efectiva para resolver este tipo de problemas de rompecabezas.
